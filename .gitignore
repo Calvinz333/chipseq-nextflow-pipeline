@@ -1,0 +1,13 @@
+# Nextflow temporary files
+work/
+.nextflow*
+
+# Our local data (never upload data to Git)
+dataa/
+genomee/
+
+# Results
+results/
+
+# macOS junk
+.DS_Store
